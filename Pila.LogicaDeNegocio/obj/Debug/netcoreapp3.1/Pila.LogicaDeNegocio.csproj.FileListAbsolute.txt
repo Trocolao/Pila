@@ -1,0 +1,10 @@
+C:\Users\cmunozj\source\repos\Stack\Pila.LogicaDeNegocio\bin\Debug\netcoreapp3.1\Pila.LogicaDeNegocio.deps.json
+C:\Users\cmunozj\source\repos\Stack\Pila.LogicaDeNegocio\bin\Debug\netcoreapp3.1\Pila.LogicaDeNegocio.dll
+C:\Users\cmunozj\source\repos\Stack\Pila.LogicaDeNegocio\bin\Debug\netcoreapp3.1\Pila.LogicaDeNegocio.pdb
+C:\Users\cmunozj\source\repos\Stack\Pila.LogicaDeNegocio\obj\Debug\netcoreapp3.1\Pila.LogicaDeNegocio.csproj.AssemblyReference.cache
+C:\Users\cmunozj\source\repos\Stack\Pila.LogicaDeNegocio\obj\Debug\netcoreapp3.1\Pila.LogicaDeNegocio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cmunozj\source\repos\Stack\Pila.LogicaDeNegocio\obj\Debug\netcoreapp3.1\Pila.LogicaDeNegocio.AssemblyInfoInputs.cache
+C:\Users\cmunozj\source\repos\Stack\Pila.LogicaDeNegocio\obj\Debug\netcoreapp3.1\Pila.LogicaDeNegocio.AssemblyInfo.cs
+C:\Users\cmunozj\source\repos\Stack\Pila.LogicaDeNegocio\obj\Debug\netcoreapp3.1\Pila.LogicaDeNegocio.csproj.CoreCompileInputs.cache
+C:\Users\cmunozj\source\repos\Stack\Pila.LogicaDeNegocio\obj\Debug\netcoreapp3.1\Pila.LogicaDeNegocio.dll
+C:\Users\cmunozj\source\repos\Stack\Pila.LogicaDeNegocio\obj\Debug\netcoreapp3.1\Pila.LogicaDeNegocio.pdb

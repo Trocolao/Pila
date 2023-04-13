@@ -3,7 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.33424.131
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Stack", "Stack\Stack.csproj", "{401299FB-1228-4371-85D4-732F8BFC6E06}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Stack", "Stack\Stack.csproj", "{401299FB-1228-4371-85D4-732F8BFC6E06}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Pila.LogicaDeNegocio", "Pila.LogicaDeNegocio\Pila.LogicaDeNegocio.csproj", "{310DA79D-18A5-4F25-AABD-D2E4E6C41CBC}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StackSegundo.MVC", "StackSegundo.MVC\StackSegundo.MVC.csproj", "{5DBFA36A-6087-4BD6-AF1A-AAB62D53CD07}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +19,14 @@ Global
 		{401299FB-1228-4371-85D4-732F8BFC6E06}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{401299FB-1228-4371-85D4-732F8BFC6E06}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{401299FB-1228-4371-85D4-732F8BFC6E06}.Release|Any CPU.Build.0 = Release|Any CPU
+		{310DA79D-18A5-4F25-AABD-D2E4E6C41CBC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{310DA79D-18A5-4F25-AABD-D2E4E6C41CBC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{310DA79D-18A5-4F25-AABD-D2E4E6C41CBC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{310DA79D-18A5-4F25-AABD-D2E4E6C41CBC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5DBFA36A-6087-4BD6-AF1A-AAB62D53CD07}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5DBFA36A-6087-4BD6-AF1A-AAB62D53CD07}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5DBFA36A-6087-4BD6-AF1A-AAB62D53CD07}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5DBFA36A-6087-4BD6-AF1A-AAB62D53CD07}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

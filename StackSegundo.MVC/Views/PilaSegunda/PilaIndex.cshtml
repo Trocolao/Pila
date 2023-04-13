@@ -1,0 +1,71 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+@model ModeloPila
+@{
+    ViewBag.Title = "Pila";
+}
+<h2>Pila Stack</h2>
+@using (Html.BeginForm("Push", "PilaSegunda", FormMethod.Post))
+{
+    for (int i = 0; i < Model.NumeroElementos; i++)
+    {
+        <input type="hidden" name="StackArray[@i]" value="@Model.StackArray[i]" />
+    }
+    <label for="value">Introduce un numero: </label>
+    <input type="text" id="value" name="value" />
+    <button type="submit">Push</button>
+}
+
+@using (Html.BeginForm("Pop", "PilaSegunda", FormMethod.Post))
+{
+    for (int i = 0; i < Model.NumeroElementos; i++)
+    {
+        <input type="hidden" name="StackArray[@i]" value="@Model.StackArray[i]" />
+    }
+    <button type="submit">Pop</button>
+}
+
+@using (Html.BeginForm("Peek", "PilaSegunda", FormMethod.Post))
+{ 
+    for (int i = 0; i < Model.NumeroElementos; i++)
+    {
+        <input type="hidden" name="StackArray[@i]" value="@Model.StackArray[i]" />
+    }
+    <button type="submit">Peek</button>
+}
+@using (Html.BeginForm("Tamaño", "PilaSegunda", FormMethod.Post))
+{
+    for (int i = 0; i < Model.NumeroElementos; i++)
+    {
+        <input type="hidden" name="StackArray[@i]" value="@Model.StackArray[i]" />
+    }
+    <button type="submit">Tamaño de la pila</button>
+}
+
+@using (Html.BeginForm("Comprobacion", "PilaSegunda", FormMethod.Post))
+{
+     for (int i = 0; i < Model.NumeroElementos; i++)
+    {
+        <input type="hidden" name="StackArray[@i]" value="@Model.StackArray[i]" />
+    }
+    <button type="submit">¿Está vacía la pila?</button>
+}
+@if (TempData["PeekValue"] != null)
+{
+    <p>Elemento superior: @TempData["PeekValue"]</p>
+}
+@if (TempData["PopValue"] != null)
+{
+    <p>Elemento superior: @TempData["PopValue"]</p>
+}
+@if (TempData["Tamaño"] != null)
+{
+    <p>Tamaño de la pila: @TempData["Tamaño"]</p>
+}
+@if (TempData["Comprobacion"] != null)
+{
+    <p>¿Está vacía la pila?: @TempData["Comprobacion"]</p>
+}

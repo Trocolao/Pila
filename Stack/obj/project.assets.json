@@ -188,6 +188,16 @@
             "related": ".xml"
           }
         }
+      },
+      "Pila.LogicaDeNegocio/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/Pila.LogicaDeNegocio.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Pila.LogicaDeNegocio.dll": {}
+        }
       }
     }
   },
@@ -1052,10 +1062,16 @@
         "system.threading.tasks.4.3.0.nupkg.sha512",
         "system.threading.tasks.nuspec"
       ]
+    },
+    "Pila.LogicaDeNegocio/1.0.0": {
+      "type": "project",
+      "path": "../Pila.LogicaDeNegocio/Pila.LogicaDeNegocio.csproj",
+      "msbuildProject": "../Pila.LogicaDeNegocio/Pila.LogicaDeNegocio.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
+      "Pila.LogicaDeNegocio >= 1.0.0",
       "System.Collections.NonGeneric >= 4.3.0"
     ]
   },
@@ -1085,7 +1101,11 @@
       "frameworks": {
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\cmunozj\\source\\repos\\Stack\\Pila.LogicaDeNegocio\\Pila.LogicaDeNegocio.csproj": {
+              "projectPath": "C:\\Users\\cmunozj\\source\\repos\\Stack\\Pila.LogicaDeNegocio\\Pila.LogicaDeNegocio.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

@@ -12,3 +12,6 @@ C:\Users\cmunozj\source\repos\Stack\Stack\obj\Debug\netcoreapp3.1\Stack.csproj.C
 C:\Users\cmunozj\source\repos\Stack\Stack\obj\Debug\netcoreapp3.1\Stack.dll
 C:\Users\cmunozj\source\repos\Stack\Stack\obj\Debug\netcoreapp3.1\Stack.pdb
 C:\Users\cmunozj\source\repos\Stack\Stack\obj\Debug\netcoreapp3.1\Stack.genruntimeconfig.cache
+C:\Users\cmunozj\source\repos\Stack\Stack\bin\Debug\netcoreapp3.1\Pila.LogicaDeNegocio.dll
+C:\Users\cmunozj\source\repos\Stack\Stack\bin\Debug\netcoreapp3.1\Pila.LogicaDeNegocio.pdb
+C:\Users\cmunozj\source\repos\Stack\Stack\obj\Debug\netcoreapp3.1\Stack.csproj.CopyComplete

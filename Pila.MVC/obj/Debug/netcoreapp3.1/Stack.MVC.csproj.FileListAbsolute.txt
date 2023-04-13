@@ -1,0 +1,8 @@
+C:\Users\cmunozj\source\repos\Stack\Pila.MVC\obj\Debug\netcoreapp3.1\Stack.MVC.csproj.AssemblyReference.cache
+C:\Users\cmunozj\source\repos\Stack\Pila.MVC\obj\Debug\netcoreapp3.1\Stack.MVC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cmunozj\source\repos\Stack\Pila.MVC\obj\Debug\netcoreapp3.1\Stack.MVC.AssemblyInfoInputs.cache
+C:\Users\cmunozj\source\repos\Stack\Pila.MVC\obj\Debug\netcoreapp3.1\Stack.MVC.AssemblyInfo.cs
+C:\Users\cmunozj\source\repos\Stack\Pila.MVC\obj\Debug\netcoreapp3.1\Stack.MVC.csproj.CoreCompileInputs.cache
+C:\Users\cmunozj\source\repos\Stack\Pila.MVC\obj\Debug\netcoreapp3.1\Stack.MVC.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\cmunozj\source\repos\Stack\Pila.MVC\obj\Debug\netcoreapp3.1\Stack.MVC.RazorAssemblyInfo.cache
+C:\Users\cmunozj\source\repos\Stack\Pila.MVC\obj\Debug\netcoreapp3.1\Stack.MVC.RazorAssemblyInfo.cs
